@@ -1,4 +1,4 @@
-print('H W')
 
-a = 255
-print(a)
+
+print("HelloRustem, now the waning moon!")
+print("because it is in the form of an inverted R")
